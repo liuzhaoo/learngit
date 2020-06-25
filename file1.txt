@@ -22,8 +22,8 @@
 	
 	总结： 每次修改文件或者添加文件都要git add <修改或添加的文件>，否则git status 会是红色
 		   
-		   git add 之后，status 变为绿色，工作区clean
+		   git add 之后，status 变为绿色。如果此时再修改文件，status 仍是红色
 		   
-		   然后commit
+		   然后commit，此时工作区 clean，否则工作区还有东西
 		   
 
