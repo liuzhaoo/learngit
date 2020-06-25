@@ -1,0 +1,8 @@
+建立仓库的步骤：
+
+1.  git init  初始化仓库
+
+2   添加文件到仓库，分两步：
+
+		1） 使用命令 git add <file>
+		2）  git commit -m <message>
